@@ -3,6 +3,7 @@ Java external courses repository
 
 ## Table of contents
 * [General info](#general-info)
+* [Content](#Content)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
@@ -11,6 +12,8 @@ Java external courses repository
 
 ## General info
 This repository was created for a java course. Here, homework for lectures will be uplouded.
+## Content
+#task1Game
 ## Screenshots
 Here, will be a screenshots if needed.
 
