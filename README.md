@@ -3,7 +3,7 @@ Java external courses repository
 
 ## Table of contents
 * [General info](#general-info)
-* [Content](#Content)
+* [Content](#content)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
@@ -13,7 +13,7 @@ Java external courses repository
 ## General info
 This repository was created for a java course. Here, homework for lectures will be uplouded.
 ## Content
-* [Task1Game](##https://github.com/andrewtyshkovets/JavaExternal/tree/master/task1Game/src/com/gmail/andrewTyshkovets)
+* [Task1Game](https://github.com/andrewtyshkovets/JavaExternal/tree/master/task1Game/src/com/gmail/andrewTyshkovets)
 ## Screenshots
 Here, will be a screenshots if needed.
 
