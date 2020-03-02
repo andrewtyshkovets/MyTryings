@@ -1,5 +1,0 @@
-2020-03-01 23:03:36,965 ERROR [main] - com.andrew.Controller.runController 64 - Error, something went wrong!!! Try again
-2020-03-01 23:06:42,686 ERROR [main] - com.andrew.Controller.runController 53 - Invalid number!!! Try again
-2020-03-01 23:09:40,527 ERROR [main] - com.andrew.Controller.runController 67 - Error, something went wrong!!! Try again
-2020-03-01 23:11:43,836 ERROR [main] - com.andrew.Controller.runController 67 - Invalid number!!! Try again
-2020-03-01 23:12:14,931 ERROR [main] - com.andrew.Controller.runController 67 - Invalid number format!!! Try again
